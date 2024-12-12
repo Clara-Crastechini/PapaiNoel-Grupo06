@@ -4,18 +4,28 @@
 }
 
 .header_login[b-acp5oohxnx]{
-    background-color: red;
-    background-image: url(/wwwroot/images/Group\ 17.png);
-    background-image: url(/wwwroot/images/gatohome.png);
-    height: 320;
+    /* background-image: url(~/images/Group17.png); */
+    background-image: url(/images/gatohome.png);
+    /* background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; */
+    height: 650px;
+    width: auto;
     display: flex;
-    flex-direction: column;
-    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid red;
 }
 
+.header_titulo[b-acp5oohxnx]{
+    width: 700px;
+    color: white;
+}
 
 main[b-acp5oohxnx]{
+    height: 700px;
     display: flex;
     flex-direction: center;
     justify-content: center;
 }
+

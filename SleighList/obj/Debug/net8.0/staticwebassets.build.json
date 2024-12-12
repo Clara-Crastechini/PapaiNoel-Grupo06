@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8IYRsoGA7t4HkhvBSYlq6cvMxPkFC3CxDjssZcXa2sc=",
+  "Hash": "lDC5hvTrTN06f/MHwp9QONIcjo4aPuZcjEvdHampz+k=",
   "Source": "SleighList",
   "BasePath": "_content/SleighList",
   "Mode": "Default",
@@ -112,12 +112,12 @@
       "OriginalItemSpec": "wwwroot\\images\\gatohome.png"
     },
     {
-      "Identity": "C:\\Users\\55214382898\\Desktop\\PapaiNoel-Grupo06\\SleighList\\wwwroot\\images\\Group 17.png",
+      "Identity": "C:\\Users\\55214382898\\Desktop\\PapaiNoel-Grupo06\\SleighList\\wwwroot\\images\\Group17.png",
       "SourceId": "SleighList",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\55214382898\\Desktop\\PapaiNoel-Grupo06\\SleighList\\wwwroot\\",
       "BasePath": "_content/SleighList",
-      "RelativePath": "images/Group 17.png",
+      "RelativePath": "images/Group17.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,7 +128,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Group 17.png"
+      "OriginalItemSpec": "wwwroot\\images\\Group17.png"
     },
     {
       "Identity": "C:\\Users\\55214382898\\Desktop\\PapaiNoel-Grupo06\\SleighList\\wwwroot\\js\\Index.js",
