@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header_login{
+    /* background-image: url(); */
+    background-color: red;
+    height: 76vh;
+}

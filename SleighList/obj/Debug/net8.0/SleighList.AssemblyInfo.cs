@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SleighList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4cdf98d6bce0b20c17fd839228c5c5c639c90a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79798301659696f545de468ff577ab9d4a0080e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("SleighList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SleighList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
