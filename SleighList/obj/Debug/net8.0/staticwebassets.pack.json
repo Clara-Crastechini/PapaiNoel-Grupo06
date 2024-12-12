@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\55214382898\\Desktop\\PapaiNoel-Grupo06\\SleighList\\wwwroot\\images\\Group 17.png",
+      "PackagePath": "staticwebassets\\images\\Group 17.png"
+    },
+    {
+      "Id": "C:\\Users\\55214382898\\Desktop\\PapaiNoel-Grupo06\\SleighList\\wwwroot\\images\\gatohome.png",
+      "PackagePath": "staticwebassets\\images\\gatohome.png"
+    },
+    {
       "Id": "C:\\Users\\55214382898\\Desktop\\PapaiNoel-Grupo06\\SleighList\\wwwroot\\js\\Index.js",
       "PackagePath": "staticwebassets\\js\\Index.js"
     },
