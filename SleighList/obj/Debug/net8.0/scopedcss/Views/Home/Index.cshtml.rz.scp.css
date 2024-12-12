@@ -10,8 +10,8 @@ main[b-acp5oohxnx]{
 }
 
 .header_login[b-acp5oohxnx]{
-    /* background-image: url(); */
     background-color: red;
+<<<<<<< HEAD
     height: 76vh;
 }
 
@@ -19,4 +19,19 @@ form[b-acp5oohxnx]{
     display: flex;
     justify-content: center;
     align-items: center;
+=======
+    background-image: url(/wwwroot/images/Group\ 17.png);
+    background-image: url(/wwwroot/images/gatohome.png);
+    height: 320;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+}
+
+
+main[b-acp5oohxnx]{
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+>>>>>>> 1b37e135596e2007db4d7e88fce8f25d4a3bfa62
 }

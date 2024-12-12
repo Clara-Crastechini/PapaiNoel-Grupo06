@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "/MD6DR/v5cL6MlA5BnxIliDDkNF0+KbsVKsC5XfWIG8=",
+=======
+  "Hash": "8IYRsoGA7t4HkhvBSYlq6cvMxPkFC3CxDjssZcXa2sc=",
+>>>>>>> 1b37e135596e2007db4d7e88fce8f25d4a3bfa62
   "Source": "SleighList",
   "BasePath": "_content/SleighList",
   "Mode": "Default",
@@ -93,7 +97,49 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\52529661847\\Desktop\\PapaiNoel-Grupo06\\SleighList\\wwwroot\\js\\Index.js",
+=======
+      "Identity": "C:\\Users\\55214382898\\Desktop\\PapaiNoel-Grupo06\\SleighList\\wwwroot\\images\\gatohome.png",
+      "SourceId": "SleighList",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55214382898\\Desktop\\PapaiNoel-Grupo06\\SleighList\\wwwroot\\",
+      "BasePath": "_content/SleighList",
+      "RelativePath": "images/gatohome.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\gatohome.png"
+    },
+    {
+      "Identity": "C:\\Users\\55214382898\\Desktop\\PapaiNoel-Grupo06\\SleighList\\wwwroot\\images\\Group 17.png",
+      "SourceId": "SleighList",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55214382898\\Desktop\\PapaiNoel-Grupo06\\SleighList\\wwwroot\\",
+      "BasePath": "_content/SleighList",
+      "RelativePath": "images/Group 17.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Group 17.png"
+    },
+    {
+      "Identity": "C:\\Users\\55214382898\\Desktop\\PapaiNoel-Grupo06\\SleighList\\wwwroot\\js\\Index.js",
+>>>>>>> 1b37e135596e2007db4d7e88fce8f25d4a3bfa62
       "SourceId": "SleighList",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\52529661847\\Desktop\\PapaiNoel-Grupo06\\SleighList\\wwwroot\\",
