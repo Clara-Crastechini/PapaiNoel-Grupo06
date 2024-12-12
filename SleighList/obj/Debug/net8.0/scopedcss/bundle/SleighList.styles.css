@@ -4,10 +4,22 @@
     margin: 0;
 }
 
+main[b-acp5oohxnx]{
+    width: 100%;
+    height: 80px;
+    
+}
+
 .header_login[b-acp5oohxnx]{
     /* background-image: url(); */
     background-color: red;
     height: 76vh;
+}
+
+form[b-acp5oohxnx]{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 /* _content/SleighList/Views/Item/Index.cshtml.rz.scp.css */
 /* _content/SleighList/Views/Shared/_Layout.cshtml.rz.scp.css */
