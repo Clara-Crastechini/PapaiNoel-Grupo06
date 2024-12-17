@@ -1,1 +1,10 @@
-﻿
+﻿footer {
+    background-color: #800000;
+    height: 90px;   
+}
+
+
+footer container{
+    display: flex;
+    
+}

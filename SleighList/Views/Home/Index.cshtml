@@ -1,19 +1,20 @@
 ﻿<header class="header_login">
-    @* <img class="img_login" src="~/images/gatohome.png" alt=""> *@
-    @* <h2 class="header_titulo">Deixe a correria para o Papai Noel, organize tudo com o SleighList.</h2> *@
+    <h1 style="display: none;">Tela login</h1>
+    <img class="img_login" src="~/images/logo.png" alt="">
+    <p class="header_titulo">Deixe a correria para o Papai Noel, organize tudo com o SleighList.</p>
 </header>
-<main>
+<main class="main_login">
     @* TODO O MEU CONTEUDO DE DENTRO *@
     <form action="">
-        <h3>Acesse sua conta</h3>
+        <h1>Acesse sua conta</h1>
         <div class="label_input">
-            <label for="">E-mail</label>
-            <input type="email">
+            <label for="email">E-mail</label>
+            <input type="email" name="email">
         </div>
         <div class="label_input">
-            <label for="">Senha</label>
-            <input type="password">
+            <label for="senha">Senha</label>
+            <input type="password" name="senha">
         </div>
-        <a href="">Acessar</a>
+        <button type="submit">Acessar</button>
     </form>
 </main>

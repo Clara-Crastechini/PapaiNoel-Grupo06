@@ -5,7 +5,7 @@
 
 .header_login[b-acp5oohxnx]{
     /* background-image: url(~/images/Group17.png); */
-    background-image: url(/images/gatohome.png);
+    background-image: url(/images/Gato.png);
     /* background-position: center;
     background-size: cover;
     background-repeat: no-repeat; */
@@ -27,5 +27,7 @@ main[b-acp5oohxnx]{
     display: flex;
     flex-direction: center;
     justify-content: center;
+    flex-direction: column;
+    align-items: center;
 }
 

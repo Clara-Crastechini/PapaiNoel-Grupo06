@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lDC5hvTrTN06f/MHwp9QONIcjo4aPuZcjEvdHampz+k=",
+  "Hash": "5LoIwnc4FOQ7pkQMlErQHUhMMKxjbIAbjl5Fo/CUu/g=",
   "Source": "SleighList",
   "BasePath": "_content/SleighList",
   "Mode": "Default",
@@ -93,12 +93,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\55214382898\\Desktop\\PapaiNoel-Grupo06\\SleighList\\wwwroot\\images\\gatohome.png",
+      "Identity": "C:\\Users\\55214382898\\Desktop\\PapaiNoel-Grupo06\\SleighList\\wwwroot\\images\\Gato.png",
       "SourceId": "SleighList",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\55214382898\\Desktop\\PapaiNoel-Grupo06\\SleighList\\wwwroot\\",
       "BasePath": "_content/SleighList",
-      "RelativePath": "images/gatohome.png",
+      "RelativePath": "images/Gato.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,15 +109,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\gatohome.png"
+      "OriginalItemSpec": "wwwroot\\images\\Gato.png"
     },
     {
-      "Identity": "C:\\Users\\55214382898\\Desktop\\PapaiNoel-Grupo06\\SleighList\\wwwroot\\images\\Group17.png",
+      "Identity": "C:\\Users\\55214382898\\Desktop\\PapaiNoel-Grupo06\\SleighList\\wwwroot\\images\\logo.png",
       "SourceId": "SleighList",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\55214382898\\Desktop\\PapaiNoel-Grupo06\\SleighList\\wwwroot\\",
       "BasePath": "_content/SleighList",
-      "RelativePath": "images/Group17.png",
+      "RelativePath": "images/logo.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,7 +128,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Group17.png"
+      "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
       "Identity": "C:\\Users\\55214382898\\Desktop\\PapaiNoel-Grupo06\\SleighList\\wwwroot\\js\\Index.js",

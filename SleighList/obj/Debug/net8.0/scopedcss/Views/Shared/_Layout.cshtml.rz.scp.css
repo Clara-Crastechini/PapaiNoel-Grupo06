@@ -1,0 +1,12 @@
+footer[b-3qslldto7v] {
+    background-color: #800000;
+    height: 90px;   
+}
+
+
+footer container[b-3qslldto7v]{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
