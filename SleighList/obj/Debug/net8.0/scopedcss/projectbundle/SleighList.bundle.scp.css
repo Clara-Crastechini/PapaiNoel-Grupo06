@@ -4,6 +4,12 @@
     margin: 0;
 }
 
+main[b-acp5oohxnx]{
+    width: 100%;
+    height: 80px;
+    
+}
+
 .header_login[b-acp5oohxnx]{
     /* background-image: url(~/images/Group17.png); */
     background-image: url(/images/Gato.png);
@@ -32,6 +38,14 @@ main[b-acp5oohxnx]{
     align-items: center;
 }
 
+<<<<<<< HEAD
+form[b-acp5oohxnx]{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+=======
+>>>>>>> f43b68ae676281ebcb0accea654cdead9d70df4d
 /* _content/SleighList/Views/Item/Index.cshtml.rz.scp.css */
 /* _content/SleighList/Views/Shared/_Layout.cshtml.rz.scp.css */
 footer[b-3qslldto7v] {

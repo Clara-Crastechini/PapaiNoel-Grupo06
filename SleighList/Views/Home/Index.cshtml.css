@@ -3,9 +3,14 @@
     margin: 0;
 }
 
+.main_login{
+    width: 100%;
+    height: 80px;
+}
+
 .header_login{
     /* background-image: url(~/images/Group17.png); */
-    background-image: url(/images/Gato.png);
+    background-image: url("/images/Gato.png");
     /* background-position: center;
     background-size: cover;
     background-repeat: no-repeat; */
@@ -22,7 +27,7 @@
     color: white;
 }
 
-main{
+.main_login {
     height: 700px;
     display: flex;
     flex-direction: center;

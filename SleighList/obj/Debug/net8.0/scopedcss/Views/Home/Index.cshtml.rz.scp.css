@@ -3,7 +3,28 @@
     margin: 0;
 }
 
+main[b-acp5oohxnx]{
+    width: 100%;
+    height: 80px;
+    
+}
+
 .header_login[b-acp5oohxnx]{
+<<<<<<< HEAD
+    background-color: red;
+<<<<<<< HEAD
+    height: 76vh;
+}
+
+form[b-acp5oohxnx]{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+=======
+    background-image: url(/wwwroot/images/Group\ 17.png);
+    background-image: url(/wwwroot/images/gatohome.png);
+    height: 320;
+=======
     /* background-image: url(~/images/Group17.png); */
     background-image: url(/images/Gato.png);
     /* background-position: center;
@@ -11,6 +32,7 @@
     background-repeat: no-repeat; */
     height: 650px;
     width: auto;
+>>>>>>> f43b68ae676281ebcb0accea654cdead9d70df4d
     display: flex;
     justify-content: center;
     align-items: center;
@@ -27,7 +49,15 @@ main[b-acp5oohxnx]{
     display: flex;
     flex-direction: center;
     justify-content: center;
+<<<<<<< HEAD
     flex-direction: column;
     align-items: center;
+=======
+<<<<<<< HEAD
+>>>>>>> 1b37e135596e2007db4d7e88fce8f25d4a3bfa62
+}
+=======
+>>>>>>> 8f537201faf0a9b167c0ea1c811a3c37bb1d3993
 }
 
+>>>>>>> f43b68ae676281ebcb0accea654cdead9d70df4d
